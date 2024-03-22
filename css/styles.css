@@ -1,3 +1,5 @@
+
+
 .header-logo {
     text-decoration: none;
     color: #4d5ae5;
@@ -7,4 +9,13 @@
     font-family: raleway, sans-serif;
     line-height: 1.17
 
+}
+.header-logo-web {
+    text-decoration: none;
+        color:#2e2f42;
+        font-weight: 700;
+        letter-spacing: 0.03em;
+        font-size: 18px;
+        font-family: raleway, sans-serif;
+        line-height: 1.17
 }
