@@ -1,14 +1,18 @@
 
 
 .header-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    font-weight: 700;
-    letter-spacing: 0.03em;
-    font-size: 18px;
-    font-family: Raleway, sans-serif;
-    line-height: 1.17;
-
+    
+    
+ 
+    
+   
 }
 .header-logo-web {
         color: #2e2f42;
