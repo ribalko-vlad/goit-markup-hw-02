@@ -1,21 +1,10 @@
 .header-logo {
     text-decoration: none;
-    color: #2e2f42;
-    font-family:raleway,sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 0.16;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-
-.header-logo-web {
     color: #4d5ae5;
     font-weight: 700;
     letter-spacing: 0.03em;
     font-size: 18px;
     font-family: raleway, sans-serif;
     line-height: 1.17
-    
 
 }
