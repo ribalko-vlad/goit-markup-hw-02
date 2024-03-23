@@ -26,3 +26,9 @@
     color: #2e2f42;
     
 }
+.info-link:focus{
+    color: #404bbf;
+}
+.info-link:hover {
+    color: #404bbf;
+}
