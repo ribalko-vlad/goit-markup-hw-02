@@ -49,18 +49,7 @@
 .mailto:hover{
     color: #404bbf;
 }
-.tel{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.tel:focus{
-color: #404bbf;
-}
-.tel:hover{
-color: #404bbf;
-}
+
 
 .section {
 background-color: #2e2f42;
