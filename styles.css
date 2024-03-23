@@ -32,3 +32,32 @@
 .info-link:hover {
     color: #404bbf;
 }
+.address {
+    font-style: normal
+}
+
+.mailto {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.mailto:focus{
+    color: #404bbf;
+}
+.mailto:hover{
+    color: #404bbf;
+}
+.tel{
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.tel:focus{
+color: #404bbf;
+}
+.tel:hover{
+color: #404bbf;
+}
