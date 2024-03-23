@@ -109,6 +109,10 @@ background-color: #2e2f42;
     text-transform: capitalize;
     color: #2e2f42;
 }
+
+.lish {
+    background-color: #FFFFFF;
+}
 .our-team-section{
     font-weight: 500;
     font-size: 20px;
