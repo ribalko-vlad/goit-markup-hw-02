@@ -128,5 +128,10 @@ background-color: #2e2f42;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    
+
+}
+.product-parag{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
